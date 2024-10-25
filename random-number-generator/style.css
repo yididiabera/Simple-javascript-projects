@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+#btn {
+  padding: 10px 25px;
+  font-size: 2em;
+  border-radius: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 500;
+}
+
+.labels {
+  font-size: 3em;
+}
